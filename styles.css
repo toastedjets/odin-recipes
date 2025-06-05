@@ -1,0 +1,15 @@
+li,
+p {
+    background-color: rgb(228, 158, 28);
+    color: rgb(51, 51, 187);
+}
+
+h1,
+h2 {
+    color: darkred;
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
